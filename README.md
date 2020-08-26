@@ -7,9 +7,9 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 Para instalar o pipenv:
 
-'
+'''
 pip install pipenv
-'
+'''
 
 Para criar o ambiente virtual:
 

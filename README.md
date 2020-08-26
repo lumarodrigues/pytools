@@ -17,9 +17,7 @@ pip install pipenv
 
 Para criar o ambiente virtual:
 
-'
-pipenv install
-'
+'pipenv install'
 
 Para instalar:
 

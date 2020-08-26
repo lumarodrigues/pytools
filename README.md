@@ -5,6 +5,10 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Build Status](https://travis-ci.org/lumarodrigues/python-tools.svg?branch=master)](https://travis-ci.org/lumarodrigues/python-tools)
 
+
+[![codecov](https://codecov.io/gh/lumarodrigues/pytools/branch/master/graph/badge.svg)](https://codecov.io/gh/lumarodrigues/pytools)
+
+
 Para instalar o pipenv:
 
 '''

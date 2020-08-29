@@ -3,8 +3,7 @@ Repositório do módulo Pytools do curso PythonPro
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
-[![Build Status](https://travis-ci.org/lumarodrigues/python-tools.svg?branch=master)](https://travis-ci.org/lumarodrigues/python-tools)
-
+[![Build Status](https://travis-ci.org/lumarodrigues/pytools.svg?branch=master)](https://travis-ci.org/lumarodrigues/pytools)
 
 [![codecov](https://codecov.io/gh/lumarodrigues/pytools/branch/master/graph/badge.svg)](https://codecov.io/gh/lumarodrigues/pytools)
 
